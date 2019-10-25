@@ -1,0 +1,43 @@
+{
+  "name": "oem-portal-automation",
+  "version": "1.0.0",
+  "description": "Test automation for OEM portals.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --config=./src/aut/paccar/jest.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:PeopleNet/oem-portal-automation.git"
+  },
+  "author": "OEM Automation Team",
+  "license": "ISC",
+  "dependencies": {
+    "agentkeepalive": "^4.1.0",
+    "ajv": "^6.10.2",
+    "amqplib": "^0.5.5",
+    "chromedriver": "^77.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "galenframework-cli": "^2.4.4",
+    "geckodriver": "^1.19.0",
+    "iedriver": "^3.14.1",
+    "jest": "^24.8.0",
+    "jest-allure-reporter": "^1.2.3",
+    "jest-html-reporter": "^2.5.0",
+    "jest-junit": "^6.4.0",
+    "junit-xml": "^1.2.0",
+    "lodash": "^4.17.15",
+    "mailosaur": "^6.0.0",
+    "resemblejs": "^3.2.0",
+    "selenium-webdriver": "^4.0.0-alpha.4",
+    "sharp": "^0.23.0",
+    "superagent": "^5.1.0",
+    "test": "^0.6.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "jest-allure": "0.1.1",
+    "standard": "13.1.0"
+  }
+}
