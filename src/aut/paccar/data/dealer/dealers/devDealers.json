@@ -1,0 +1,140 @@
+{
+    "dealers": [
+        {
+            "name": "Allstate Peterbilt of Dickinson",
+            "code": "A123",
+            "id": "",
+            "email": "",
+            "lat": "46.886737593",
+            "lon": "-102.730350195",
+            "coordinates": [
+                {
+                    "lat": "-102.7304547794639",
+                    "lon": "46.88810390257363"
+                },
+                {
+                    "lat": "-102.731773214121",
+                    "lon": "46.88772778553219"
+                },
+                {
+                    "lat": "-102.7304176677649",
+                    "lon": "46.88545835238059"
+                },
+                {
+                    "lat": "-102.7288417562095",
+                    "lon": "46.88574798228726"
+                },
+                {
+                    "lat": "-102.7304547794639",
+                    "lon": "46.88810390257363"
+                }
+            ],
+            "locations": [
+                {
+                    "type": "Physical Address",
+                    "line1": "3432 I-94 Business Loop East",
+                    "line2": "",
+                    "city": "Dickinson",
+                    "state": "ND",
+                    "zip": "58601"
+                }
+            ],
+            "phoneNumbers": [
+                {
+                    "type": "Fax",
+                    "number": "7012259153"
+                },
+                {
+                    "type": "Primary",
+                    "number": "7012259424"
+                },
+                {
+                    "type": "Toll Free",
+                    "number": "8558699314"
+                }
+            ],
+            "hoursOfService": [
+                {
+                    "serviceType": "Service",
+                    "open": "7:00 am",
+                    "close": "5:30 pm",
+                    "daysOfWeek": [
+                        "Monday",
+                        "Tuesday",
+                        "Wednesday",
+                        "Thursday",
+                        "Friday"
+                    ]
+                },
+                {
+                    "serviceType": "Parts",
+                    "open": "7:00 am",
+                    "close": "5:30 pm",
+                    "daysOfWeek": [
+                        "Monday",
+                        "Tuesday",
+                        "Wednesday",
+                        "Thursday",
+                        "Friday"
+                    ]
+                },
+                {
+                    "serviceType": "Parts",
+                    "open": "8:00 am",
+                    "close": "12:00 pm",
+                    "daysOfWeek": [
+                        "Saturday"
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Worldwide Equipment - Pikeville",
+            "code": "W009",
+            "id": "bc65220b-9300-46f2-a522-0b930036f2a3",
+            "email": "",
+            "lat": "",
+            "lon": "",
+            "coordinates": [],
+            "locations": [],
+            "phoneNumbers": [],
+            "hoursOfService": []
+        },
+        {
+            "name": "Wallwork Kenworth - Fergus Falls",
+            "code": "W065",
+            "id": "f15e55b3-4ff4-4d97-9e55-b34ff48d975a",
+            "email": "",
+            "lat": "",
+            "lon": "",
+            "coordinates": [],
+            "locations": [],
+            "phoneNumbers": [],
+            "hoursOfService": []
+        },
+        {
+            "name": "MHC Kenworth - Charlotte",
+            "code": "",
+            "id": "",
+            "email": "",
+            "lat": "",
+            "lon": "",
+            "coordinates": [],
+            "locations": [],
+            "phoneNumbers": [],
+            "hoursOfService": []
+        },
+        {
+            "name": "Black Hills Kenworth",
+            "code": "B515",
+            "id": "82f6503-2668-45b6-af65-03266835b6df",
+            "email": "",
+            "lat": "",
+            "lon": "",
+            "coordinates": [],
+            "locations": [],
+            "phoneNumbers": [],
+            "hoursOfService": []
+        }
+    ]
+}

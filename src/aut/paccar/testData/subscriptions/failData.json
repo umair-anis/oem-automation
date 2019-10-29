@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "name": "Invalid Duration",
+
+            "subscription": "123456",
+            "duration": "asdfasdfasdf",
+            "firstName": "Paccar",
+            "lastName": "Admin-Automation",
+            "email": "paccaradmin-automation@test.com",
+            "phone": "(123) 456-7890"
+        },
+        {
+            "name": "Save Contact Info with Empty First Name",
+
+            "subscription": "123456",
+            "duration": "2 Years",
+            "firstName": "",
+            "lastName": "Admin-Automation",
+            "email": "paccaradmin-automation@test.com",
+            "phone": "(123) 456-7890"
+        },
+        {
+            "name": "Save Contact Info with Empty Last Name",
+
+            "subscription": "123456",
+            "duration": "2 Years",
+            "firstName": "Paccar",
+            "lastName": "",
+            "email": "paccaradmin-automation@test.com",
+            "phone": "(123) 456-7890"
+        },
+        {
+            "name": "Save Contact Info with Empty Email",
+
+            "subscription": "123456",
+            "duration": "2 Years",
+            "firstName": "Paccar",
+            "lastName": "Admin-Automation",
+            "email": "",
+            "phone": "(123) 456-7890"
+        },
+        {
+            "name": "Save Contact Info with Email Not Valid",
+
+            "subscription": "123456",
+            "duration": "2 Years",
+            "firstName": "Paccar",
+            "lastName": "Admin-Automation",
+            "email": "notvalidemail",
+            "phone": "(123) 456-7890"
+        },
+        {
+            "name": "Save Contact Info with Empty Phone",
+
+            "subscription": "123456",
+            "duration": "2 Years",
+            "firstName": "Paccar",
+            "lastName": "Admin-Automation",
+            "email": "paccaradmin-automation@test.com",
+            "phone": ""
+        },
+        {
+            "name": "Save Contact Info with Phone Number Too Short",
+
+            "subscription": "123456",
+            "duration": "2 Years",
+            "firstName": "Paccar",
+            "lastName": "Admin-Automation",
+            "email": "paccaradmin-automation@test.com",
+            "phone": "123"
+        }
+    ]
+}

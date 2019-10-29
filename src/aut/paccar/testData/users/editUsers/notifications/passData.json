@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "name": "No Email Notifications, Checkbox one subscribed customer and vehicle group",
+
+            "email": "evgautomation.qpokwwn6@mailosaur.io",
+            "notificationOption": "None",
+            "subscribedCustomers": ["Idaho/Illinois"],
+            "subscribedVehicleGroups": ["this is a customer"]
+        }
+    ]
+}

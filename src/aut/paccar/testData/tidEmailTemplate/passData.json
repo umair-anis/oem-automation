@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "name": "Spanish Template",
+            
+            "language": "Spanish",
+            "subject": "example subject",
+            "templateName": "ACTIVATE_USER",
+            "content": "example content"
+        },
+        {
+            "name": "English Template",
+            
+            "language": "English",
+            "subject": "example subject",
+            "templateName": "ACTIVATE_USER",
+            "content": "example content"
+        }
+    ]
+}

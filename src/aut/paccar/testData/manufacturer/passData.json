@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "name": "Kenworth Manufacturer",
+            
+            "manufacturer": "Kenworth"
+        },
+        {
+            "name": "Peterbilt Manufacturer",
+            
+            "manufacturer": "Peterbilt"
+        }
+    ]
+}

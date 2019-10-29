@@ -1,0 +1,52 @@
+'use strict'
+
+const { callSpecs } = require('../../../../core/spec/callSpecs')
+const { SpecBuilder } = require('../../../../core/spec/SpecBuilder')
+const { testEditDealer_All } = require('../../test/dealer/testEditDealer_All')
+const { testEditDealer_Geofence } = require('../../test/dealer/testEditDealer_Geofence')
+const { testEditDealer_HoursOfService } = require('../../test/dealer/testEditDealer_HoursOfService')
+const { testEditDealer_Location } = require('../../test/dealer/testEditDealer_Location')
+const { testEditDealer_Phone } = require('../../test/dealer/testEditDealer_Phone')
+
+describe('Dealer - Edit Dealer', () => {
+  const specAll = SpecBuilder().setPortal(`Paccar Portal`)
+    .setPortalType(`Staging`)
+    .setName(`Dealer - Edit Dealer - Add, Edit, then Delete All Attributes in Edit Dealer Form`)
+    .setTestFunc(testEditDealer_All)
+    .setPassingRoles([`peoplenetadmin`])
+    .build()
+
+  const specGeofence = SpecBuilder().setPortal(`Paccar Portal`)
+    .setPortalType(`Staging`)
+    .setName(`Dealer - Edit Dealer - Add, Edit, then Delete a Geofence`)
+    .setTestFunc(testEditDealer_Geofence)
+    .setPassingRoles([`peoplenetadmin`])
+    .build()
+
+  const specHoS = SpecBuilder().setPortal(`Paccar Portal`)
+    .setPortalType(`Staging`)
+    .setName(`Dealer - Edit Dealer - Add, Edit, then Delete an Hours of Service`)
+    .setTestFunc(testEditDealer_HoursOfService)
+    .setPassingRoles([`peoplenetadmin`])
+    .build()
+
+  const specLocation = SpecBuilder().setPortal(`Paccar Portal`)
+    .setPortalType(`Staging`)
+    .setName(`Dealer - Edit Dealer - Add, Edit, then Delete a Physical Address/Location`)
+    .setTestFunc(testEditDealer_Location)
+    .setPassingRoles([`peoplenetadmin`])
+    .build()
+
+  const specPhone = SpecBuilder().setPortal(`Paccar Portal`)
+    .setPortalType(`Staging`)
+    .setName(`Dealer - Edit Dealer - Add, Edit, then Delete a Phone Number`)
+    .setTestFunc(testEditDealer_Phone)
+    .setPassingRoles([`peoplenetadmin`])
+    .build()
+
+  callSpecs(specAll)
+  callSpecs(specGeofence)
+  callSpecs(specHoS)
+  callSpecs(specLocation)
+  callSpecs(specPhone)
+})

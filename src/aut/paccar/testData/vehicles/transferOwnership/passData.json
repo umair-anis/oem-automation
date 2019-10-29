@@ -1,0 +1,11 @@
+{
+    "data": [
+        {
+            "name": "Transfer Vehicle to one Customer, then back to original Customer",
+
+            "vin": "1FUJGECVXBSAV8592",
+            "customer1": "0000222@test.com",
+            "customer2": "00jordandelete"
+        }
+    ]
+}

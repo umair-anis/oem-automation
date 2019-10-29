@@ -1,0 +1,184 @@
+{
+    "data": [
+        {
+            "name": "Customer Full Name",
+
+            "search": "00jordandelete",
+            "expectedText": "00jordandelete"
+        },
+        {
+            "name": "Customer Partial Name",
+
+            "search": "00jordande",
+            "expectedText": "00jordandelete"
+        },
+		{
+            "name": "Customer Name search for world truck",
+
+            "search": "world truck",
+            "expectedText": "Truck World"
+        },
+        {
+            "name": "Customer Name search for truck world",
+
+            "search": "truck world",
+            "expectedText": "Truck World"
+        },
+		{
+            "name": "Customer Name search for 00jordandelete",
+
+            "search": "00jordan delete",
+            "expectedText": "00jordandelete"
+        },
+        {
+            "name": "Customer Full Email",
+
+            "search": "east@test.com",
+            "expectedText": "00000RegionEast"
+        },
+        {
+            "name": "Customer Full Zip Code",
+
+            "search": "55446",
+            "expectedText": "55446"
+        },
+        {
+            "name": "Customer Full City",
+
+            "search": "Plymouth",
+            "expectedText": "Plymouth"
+        },
+
+        {
+            "name": "Dealer Full Name",
+
+            "search": "AMG Peterbilt of Columbus - East",
+            "expectedText": "AMG Peterbilt of Columbus - East B653"
+        },
+		{
+            "name": "Dealer Name search for deer",
+
+            "search": "deeq",
+            "expectedText": "Deer"
+        },
+        {
+            "name": "Dealer Partial Name",
+
+            "search": "AMG Peterbilt of Columbus - ",
+            "expectedText": "AMG Peterbilt of Columbus - East B653"
+        },
+        {
+            "name": "Dealer Full Code",
+
+            "search": "B653",
+            "expectedText": "AMG Peterbilt of Columbus - East B653"
+        },
+
+        {
+            "name": "DOG Full Name",
+
+            "search": "CheckoutGroup",
+            "expectedText": "CheckoutGroup"
+        },
+        {
+            "name": "DOG Partial Name",
+
+            "search": "CheckoutGr",
+            "expectedText": "CheckoutGroup"
+        },
+
+        {
+            "name": "User Full First Name",
+
+            "search": "000Paccar",
+            "expectedText": "000Paccar"
+        },
+        {
+            "name": "User Full Last Name",
+
+            "search": "000AutoStaging",
+            "expectedText": "000AutoStaging"
+        },
+        {
+            "name": "User Full User Name",
+
+            "search": "evgautomation.qpokwwn6@mailosaur.io",
+            "expectedText": "evgautomation.qpokwwn6@mailosaur.io"
+        },
+        {
+            "name": "User Partial User Name",
+
+            "search": "evgautomation.qpokwwn6@mailosa",
+            "expectedText": "evgautomation.qpokwwn6@mailosaur.io"
+        },
+
+
+        {
+            "name": "Vehicle Group Full Name",
+
+            "search": "UserGroup2984",
+            "expectedText": "UserGroup2984"
+			},
+			{
+				"name": "Vehicle Group Partial Name",
+
+				"search": "UserGroup29",
+				"expectedText": "UserGroup2984"
+			},
+
+        {
+            "name": "Vehicle Full VIN",
+
+            "search": "1HSJGTKT1DJ3BARRY",
+            "expectedText": "1HSJGTKT1DJ3BARRY"
+        },
+        {
+            "name": "Vehicle Partial VIN - Last 6 Characters",
+
+            "search": "3BARRY",
+            "expectedText": "1HSJGTKT1DJ3BARRY"
+        },
+        {
+            "name": "Vehicle Partial VIN - Last 8 Characters",
+
+            "search": "DJ3BARRY",
+            "expectedText": "1HSJGTKT1DJ3BARRY"
+        },
+        {
+            "name": "Vehicle Bad VIN, Good Unit Number",
+
+            "search": "1FUBGEDV3    149215",
+            "expectedText": "149215"
+        },
+        {
+            "name": "(Vehicle VIN)-(Unit Number)",
+
+            "search": "1HSJGTKT1DJ3BARRY-%%%&&12344",
+            "expectedText": "1HSJGTKT1DJ3BARRY"
+        },
+        {
+            "name": "Vehicle Full Unit Number",
+
+            "search": "2323233",
+            "expectedText": "2323233"
+        },
+        {
+            "name": "Vehicle Partial Unit Number",
+
+            "search": "23232",
+            "expectedText": "2323233"
+        },
+        {
+            "name": "Vehicle Full Description",
+
+            "search": "149215",
+            "expectedText": "149215"
+        },
+        {
+            "name": "Vehicle Partial Description",
+
+            "search": "1492",
+            "expectedText": "149215"
+        }
+    ]
+}

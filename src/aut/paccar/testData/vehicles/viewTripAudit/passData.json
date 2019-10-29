@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "name": "Search Trip Audit Starting Before 10/18/2019",
+
+            "vin": "1HSMKTAN8JH538933",
+            "auditDate": "10/18/2019",
+            "auditHour": "18",
+            "auditMinute": "41",
+            "tripEventTypes": "All",
+            "tripID": "5",
+            "eventID": "c4986b5131c56c410ed6e35e0b242e82"
+        }
+    ]
+}

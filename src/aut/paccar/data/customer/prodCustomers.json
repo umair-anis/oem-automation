@@ -1,0 +1,20 @@
+{
+    "customers": [
+        {
+            "name": "TestCustomerName",
+            "email": "testCustomer@test.com",
+            "address1": "100 Test Ln N",
+            "address2": "Suite 1",
+            "city": "Plymouth",
+            "state": "MN",
+            "zipCode": "55446",
+            "country": "United States",
+            "phone": "6515551212",
+            "fax": "1112223333",
+            "joinDealerNetwork": "False"
+
+        }
+    ]
+}
+
+

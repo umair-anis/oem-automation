@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "name": "Add Empty Customer",
+
+            "customerName": "test customer name",
+            "customerEmail": "",
+            "address1": "",
+            "address2": "",
+            "city": "",
+            "state": "MN",
+            "zipCode": "",
+            "country": "United States",
+            "phone": "",
+            "fax": "",
+            "joinDealerNetwork": false
+        }
+    ]
+}

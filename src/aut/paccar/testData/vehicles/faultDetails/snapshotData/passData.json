@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "name": "Validate a Vehicle's Snapshot data with a screenshot",
+
+            "vin": "TTJJ1939Simulator",
+
+            "recommendation": "Informational",
+            "snapshotTopic": "Temperature - Engine",
+            "snapshotGraphName": "Engine Coolant Temp"
+        }
+    ]
+}

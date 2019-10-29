@@ -1,0 +1,11 @@
+{
+    "url": "http://paccar-portal-qa.connectedfleet.io",
+    "supportalUrl": "http://peoplenet-portal-qa.connectedfleet.io",
+    "securityGtwyUrl": "https://security-gateway-rp-qa.connectedfleet.io",
+    "entityUrl": "",
+    "consulUrl": "",
+    "webServicesUrl": "http://pmg-proxy-qa.connectedfleet.io:1880/",
+    "entityServiceUrl": "https://entity-service.qa.connectedfleet.io/",
+    "entitySearchServiceUrl": "https://entity-search.qa.connectedfleet.io/",
+    "userServicUrl": "https://user.qa.connectedfleet.io/"
+}

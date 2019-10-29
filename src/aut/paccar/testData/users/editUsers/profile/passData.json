@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "name": "Edit User By Replaced with Same Data",
+
+            "email": "evgautomation.qpokwwn6@mailosaur.io",
+            "firstName": "EVG AUTOMATION",
+            "lastName": "(DO NOT EDIT)",
+            "phone": "(555) 555-5555",
+            "extension": "",
+            
+            "organizationType": "OEM",
+            "organizationName": "PACCAR",
+            "userRole": "OEM Administrator",
+
+            "alwaysCheckNavBar": false,
+            "hideJoinAll": false,
+            "collapseNavBar": false,
+
+            "editPreferences": false,
+            "mapCenter": "United States",
+            "language": "English",
+            "unitsOfMeasure": "US Customary",
+            "unitsOfDistance": "Miles",
+            "unitsOfVolume": "Gallons",
+            "unitsOfFuelEconomy": "Miles Per Gallon",
+            "unitsOfTemperature": "Degrees Fahrenheit",
+            "unitsOfPressure": "Pounds Per Square Inch",
+            "unitsOfMass": "Pounds",
+
+            "active": true,
+            "emailNotVerified": false
+        }
+    ]
+}

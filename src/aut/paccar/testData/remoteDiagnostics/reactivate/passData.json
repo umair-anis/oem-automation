@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "name": "Reactivate Single Vin",
+
+            "vins": ["1FUJGLDR49LAL0801"]
+        },
+        {
+            "name": "Reactivate Multiple Vins",
+
+            "vins": ["1FUJGLDR49LAL0801", "1FUJGLDR49LAL0801"]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "data": [
+        {
+            "name": "Device Search",
+
+            "search": "7500231",
+            "searchIndex": 7,
+            "expectedText": "7500231"
+        },
+        {
+            "name": "Device search by ICCID #",
+
+            "search": "89011702272024964360",
+            "expectedText": "89011702272024964360"
+        },
+        {
+            "name": "Device search by IMSI #",
+
+            "search": "310170202496436",
+            "expectedText": "310170202496436"
+        },
+        {
+            "name": "Device search by MDN #",
+
+            "search": "6606299836",
+            "expectedText": "6606299836"
+        },
+        {
+            "name": "Device search by MEID #",
+
+            "search": "A1000033007365",
+            "expectedText": "A1000033007365"
+        }
+    ]
+}

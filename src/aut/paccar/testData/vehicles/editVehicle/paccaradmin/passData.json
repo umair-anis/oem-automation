@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "name": "Paccar Admin Edits Vehicle Vin: 1FUJGECVXBSAV8592",
+
+            "vin": "1FUJGECVXBSAV8592",
+
+            "unitNumber": "2323233",
+            "description": "323232",
+            "otaSubscriptoinStatus": "ACTIVE",
+            "primaryDealer": ""
+        }
+    ]
+}

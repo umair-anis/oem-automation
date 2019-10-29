@@ -1,0 +1,21 @@
+{
+    "arguments": [],
+    "extensions": [],
+    "androidActivity": "",
+    "androidChrome": "",
+    "androidDeviceSerial": "",
+    "androidPackage": "",
+    "androidProcess": "",
+    "androidUseRunningApp": "",
+    "detachDriver": false,
+    "excludeSwitches": [],
+    "headless": false,
+    "chromeBinaryPath": "",
+    "chromeLogFilePath": "",
+    "chromeMiniDumpPath": "",
+    "localState": "",
+    "mobileEmulation": {},
+    "perfLoggingPrefs": {},
+    "userPreferences": {},
+    "windowSize": {}
+}

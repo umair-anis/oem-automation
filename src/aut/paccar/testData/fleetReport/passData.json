@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "name": "Predefined Duration",
+            
+            "engineFamily": "All",
+            "engineModelYear": "All",
+            "duration": "Last 90 days",
+            "startDate": "",
+            "endDate": ""
+        },
+        {
+            "name": "Custom Duration",
+
+            "engineFamily": "All",
+            "engineModelYear": "All",
+            "duration": "Custom",
+            "startDate": "2019-07-01",
+            "endDate": "2019-07-31"
+        },
+        {
+            "name": "No End Date",
+            
+            "engineFamily": "All",
+            "engineModelYear": "All",
+            "duration": "Custom",
+            "startDate": "2019-07-24",
+            "endDate": ""
+        }
+    ]
+}
