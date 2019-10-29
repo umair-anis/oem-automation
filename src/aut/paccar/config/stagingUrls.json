@@ -1,0 +1,11 @@
+{
+    "url": "http://paccar-portal-staging.connectedfleet.io",
+    "supportalUrl": "http://peoplenet-portal-staging.connectedfleet.io",
+    "securityGtwyUrl": "https://security-gateway-rp-staging.connectedfleet.io",
+    "entityUrl": "http://entity-service.service.consul:58290",
+    "consulUrl": "172.17.0.1:8500",
+    "webServicesUrl": "http://pmg-proxy-staging.connectedfleet.io:1880/",
+    "entityServiceUrl": "https://entity-service.staging.connectedfleet.io/",
+    "entitySearchServiceUrl": "https://entity-search.staging.connectedfleet.io/",
+    "userServicUrl": "https://user.staging.connectedfleet.io/"
+}

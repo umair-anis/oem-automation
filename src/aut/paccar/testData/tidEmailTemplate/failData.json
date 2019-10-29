@@ -1,0 +1,20 @@
+{
+    "data": [
+        {
+            "name": "Update Email Template with Invalid Language",
+            
+            "language": "asdfasdf",
+            "subject": "example subject",
+            "templateName": "CONFIRM_USER",
+            "content": "example content"
+        },
+        {
+            "name": "Update Email Template with Invalid Template Name",
+            
+            "language": "English",
+            "subject": "example subject",
+            "templateName": "asdfasdf",
+            "content": "example content"
+        }
+    ]
+}

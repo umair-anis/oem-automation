@@ -1,0 +1,15 @@
+{
+    "data": [
+        {
+            "name": "Validate 'Fault Information' loads for a Vin: TTJJ1939Simulator",
+
+            "vin": "TTJJ1939Simulator",
+
+            "recommendation": "Informational",
+            "description": "Communication with the forward NOx sensor has failed.",
+            "currentState": "Full Engine Power Available",
+            "attention": "",
+            "additionalInformation": "An emissions fault has occurred. Do not troubleshoot the forward NOx sensor unless additional NOx sensor related fault codes are present."
+        }
+    ]
+}

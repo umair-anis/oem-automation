@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "name": "Valid CAT Factory",
+
+            "oemName": "CAT",
+            "city": "Example City",
+            "code": "A",
+            "latitude": "-100",
+            "longitude": "25"
+        }
+    ]
+}

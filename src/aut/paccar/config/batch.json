@@ -1,0 +1,6 @@
+{
+    "browsers": [ "chrome" ],
+    "isHeadless": false,
+    "runLocal": true,
+    "timeouts": 90
+}

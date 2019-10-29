@@ -1,0 +1,49 @@
+{
+    "data": [
+        {
+            "name": "Invalid Engine Family",
+            
+            "engineFamily": "asdfasdf",
+            "engineModelYear": "All",
+            "duration": "Last 90 days",
+            "startDate": "",
+            "endDate": ""
+        },
+        {
+            "name": "Invalid Engine Model/Year",
+            
+            "engineFamily": "All",
+            "engineModelYear": "asfdasdf",
+            "duration": "Last 90 days",
+            "startDate": "",
+            "endDate": ""
+        },
+        {
+            "name": "Invalid Duration",
+            
+            "engineFamily": "All",
+            "engineModelYear": "All",
+            "duration": "asdfasfd",
+            "startDate": "",
+            "endDate": ""
+        },
+        {
+            "name": "Invalid Dates - End Date before Start Date",
+            
+            "engineFamily": "All",
+            "engineModelYear": "All",
+            "duration": "Custom",
+            "startDate": "",
+            "endDate": "2019-07-24"
+        },
+        {
+            "name": "Invalid Dates - No Start Date",
+            
+            "engineFamily": "All",
+            "engineModelYear": "All",
+            "duration": "Custom",
+            "startDate": "",
+            "endDate": "2019-07-24"
+        }
+    ]
+}

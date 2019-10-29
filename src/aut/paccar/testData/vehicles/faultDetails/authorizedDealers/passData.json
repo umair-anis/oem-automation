@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "name": "Validate a Vehicle Fault contains the correct Authorized Dealers",
+
+            "vin": "TTJJ1939Simulator",
+            "recommendation": "Informational",
+
+            "dealerName": "Allstate Peterbilt of Rogers",
+            "phoneNumber": "(763) 428-4333"
+        }
+    ]
+}

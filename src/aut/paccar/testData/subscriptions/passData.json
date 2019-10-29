@@ -1,0 +1,14 @@
+{
+    "data": [
+        {
+            "name": "One-Subscription Checkout",
+
+            "subscription": "123456",
+            "duration": "2 Years",
+            "firstName": "Paccar",
+            "lastName": "Admin-Automation",
+            "email": "paccaradmin-automation@test.com",
+            "phone": "(123) 456-7890"
+        }
+    ]
+}

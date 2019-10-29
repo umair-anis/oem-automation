@@ -1,0 +1,38 @@
+{
+    "data": [
+        {
+            "name": "Add, then Delete, an English User",
+
+            "email": "",
+            "firstName": "Mike",
+            "lastName": "Schmidt",
+            "phone": "1234567890",
+            "extension": "1234",
+
+            "organizationType": "OEM",
+            "organizationName": "PACCAR",
+            "userRole": "Anju_Admin_PFM",
+
+            "alwaysCheckNavBar": false,
+            "hideJoinAll": false,
+            "collapseNavBar": false,
+
+            "editPreferences": false,
+            "mapCenter": "United States",
+            "language": "English",
+            "unitsOfMeasure": "US Customary",
+            "unitsOfDistance": "Miles",
+            "unitsOfVolume": "Gallons",
+            "unitsOfFuelEconomy": "Miles Per Gallon",
+            "unitsOfTemperature": "Degrees Fahrenheit",
+            "unitsOfPressure": "Pounds Per Square Inch",
+            "unitsOfMass": "Pounds",
+
+            "newPassword": "myPassword1",
+            "confirmPassword": "myPassword1",
+
+            "active": true,
+            "emailNotVerified": false
+        }
+    ]
+}

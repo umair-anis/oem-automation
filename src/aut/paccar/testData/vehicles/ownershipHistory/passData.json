@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "name": "Validate Ownership History Record in Vin: 1HSMKTAN8JH538933",
+
+            "vin": "1HSMKTAN8JH538933",
+            
+            "customer": "Barry Customer",
+            "purchaseDate": "3/28/18",
+            "changedBy": "Dealer Admin"
+        }
+    ]
+}

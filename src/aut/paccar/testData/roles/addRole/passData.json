@@ -1,0 +1,13 @@
+{
+    "data": [
+        {
+            "name": "Add/Delete Generic Role - 3 types, 3 applications, 3 permissions",
+
+            "roleName": "Test Role",
+            "roleDescription": "Test Description",
+            "organizationTypes": ["Administrative", "OEM", "Dealer Region"],
+            "applications": ["API Gateway", "Driver Portal", "RAIR"],
+            "permissions": ["Application Read", "Application Delete", "Changelog Links"]
+        }
+    ]
+}

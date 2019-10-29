@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "name": "Edit 0000222@test.com Customer",
+
+            "customerName": "0000222@test.com",
+            "customerEmail": "test22222@test.com",
+            "address1": "another new address",
+            "address2": "",
+            "city": "",
+            "state": "MN",
+            "zipCode": "1234567898",
+            "country": "United States",
+            "phone": "(987) 887-8787",
+            "fax": "(987) 887-8787",
+            "joinDealerNetwork": false
+        }
+    ]
+}

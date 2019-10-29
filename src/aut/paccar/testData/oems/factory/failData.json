@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "name": "Add Factory with Empty City",
+
+            "oemName": "CAT",
+            "city": "",
+            "code": "A",
+            "latitude": "-100",
+            "longitude": "25"
+        },
+        {
+            "name": "Add Factory with Empty Code",
+
+            "oemName": "CAT",
+            "city": "Example City",
+            "code": "",
+            "latitude": "-100",
+            "longitude": "25"
+        },
+        {
+            "name": "Add Factory with Empty Latitude",
+
+            "oemName": "CAT",
+            "city": "Example City",
+            "code": "A",
+            "latitude": "",
+            "longitude": "25"
+        },
+        {
+            "name": "Add Factory with Empty Longitude",
+
+            "oemName": "CAT",
+            "city": "Example City",
+            "code": "A",
+            "latitude": "-100",
+            "longitude": ""
+        }
+    ]
+}

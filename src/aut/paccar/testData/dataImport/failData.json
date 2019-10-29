@@ -1,0 +1,25 @@
+{
+    "data": [
+        {
+            "name": "Validate Import Details with Invalid Job Name",
+            
+            "jobName": "asdfasdf",
+            "executionID": "1166",
+            "info": "019-06-11 06:39:01"
+        },
+        {
+            "name": "Validate Import Details with Invalid Execution ID",
+            
+            "jobName": "Dealer Content",
+            "executionID": "1234567890",
+            "info": "019-06-11 06:39:01"
+        },
+        {
+            "name": "Validate Import Details with Invalid Device Info",
+            
+            "jobName": "Dealer Content",
+            "executionID": "1166",
+            "info": "adfasdfasdfs"
+        }
+    ]
+}

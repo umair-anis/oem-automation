@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="22" failures="1" time="14.008">
+  <testsuite name="Dealer - Edit" errors="0" failures="1" skipped="21" timestamp="2019-07-30T16:43:29" time="13.399" tests="22">
+    <testcase classname="Dealer - Edit Name, Email, ID, Lat, and Lon" name="Dealer - Edit Name, Email, ID, Lat, and Lon" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Name, Email, ID, Lat, and Lon - Cancel" name="Dealer - Edit Name, Email, ID, Lat, and Lon - Cancel" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Add Coordinates" name="Dealer - Edit Add Coordinates" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Update Coordinates" name="Dealer - Edit Update Coordinates" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Delete Coordinates" name="Dealer - Edit Delete Coordinates" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Cancel Updating Coordinates" name="Dealer - Edit Cancel Updating Coordinates" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Cancel Adding Coordinates" name="Dealer - Edit Cancel Adding Coordinates" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Add Location" name="Dealer - Edit Add Location" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Update Location" name="Dealer - Edit Update Location" time="12.255">
+      <failure>Error: expect(received).toBe(expected) // Object.is equality
+
+Expected: &quot;pass&quot;
+Received: &quot;fail&quot;
+    at Object.toBe (/Users/csimonson/Documents/GitHub/oem-portal-automation/src/aut/paccar/spec/dealer/dealer.edit.test.js:84:31)
+    at process._tickCallback (internal/process/next_tick.js:68:7)</failure>
+    </testcase>
+    <testcase classname="Dealer - Edit Cancel Updating Location" name="Dealer - Edit Cancel Updating Location" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Cancel Adding Location" name="Dealer - Edit Cancel Adding Location" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Delete Location" name="Dealer - Edit Delete Location" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Add Phone Number" name="Dealer - Edit Add Phone Number" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Update Phone Number" name="Dealer - Edit Update Phone Number" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Cancel Updating Phone Number" name="Dealer - Edit Cancel Updating Phone Number" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Cancel Adding Phone Number" name="Dealer - Edit Cancel Adding Phone Number" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Delete Phone Number" name="Dealer - Edit Delete Phone Number" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Add Hours of Service" name="Dealer - Edit Add Hours of Service" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Update Hours of Service" name="Dealer - Edit Update Hours of Service" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Cancel Updating Hours of Service" name="Dealer - Edit Cancel Updating Hours of Service" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Cancel Adding Hours of Service" name="Dealer - Edit Cancel Adding Hours of Service" time="0">
+      <skipped/>
+    </testcase>
+    <testcase classname="Dealer - Edit Delete Hours of Service" name="Dealer - Edit Delete Hours of Service" time="0">
+      <skipped/>
+    </testcase>
+  </testsuite>
+</testsuites>

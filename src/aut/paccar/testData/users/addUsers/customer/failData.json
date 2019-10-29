@@ -1,0 +1,242 @@
+{
+    "data": [
+        {
+            "name": "Invalid Email",
+
+            "email": "invEmail@",
+            "firstName": "Mike",
+            "lastName": "Schmidt",
+            "phone": "1234567890",
+            "extension": "1234",
+
+            "organizationType": "Customer",
+            "organizationName": "",
+            "userRole": "Customer Administrator",
+
+            "alwaysCheckNavBar": false,
+            "hideJoinAll": false,
+            "collapseNavBar": false,
+
+            "editPreferences": false,
+            "mapCenter": "United States",
+            "language": "English",
+            "unitsOfMeasure": "US Customary",
+            "unitsOfDistance": "Miles",
+            "unitsOfVolume": "Gallons",
+            "unitsOfFuelEconomy": "Miles Per Gallon",
+            "unitsOfTemperature": "Degrees Fahrenheit",
+            "unitsOfPressure": "Pounds Per Square Inch",
+            "unitsOfMass": "Pounds",
+
+            "newPassword": "myPassword1",
+            "confirmPassword": "myPassword1",
+
+            "active": true,
+            "emailNotVerified": false
+        },
+        {
+            "name": "Empty First Name",
+
+            "email": "",
+            "firstName": "",
+            "lastName": "Schmidt",
+            "phone": "1234567890",
+            "extension": "1234",
+
+            "organizationType": "Customer",
+            "organizationName": "",
+            "userRole": "Customer Administrator",
+
+            "alwaysCheckNavBar": false,
+            "hideJoinAll": false,
+            "collapseNavBar": false,
+
+            "editPreferences": false,
+            "mapCenter": "United States",
+            "language": "English",
+            "unitsOfMeasure": "US Customary",
+            "unitsOfDistance": "Miles",
+            "unitsOfVolume": "Gallons",
+            "unitsOfFuelEconomy": "Miles Per Gallon",
+            "unitsOfTemperature": "Degrees Fahrenheit",
+            "unitsOfPressure": "Pounds Per Square Inch",
+            "unitsOfMass": "Pounds",
+
+            "newPassword": "myPassword1",
+            "confirmPassword": "myPassword1",
+
+            "active": true,
+            "emailNotVerified": false
+        },
+        {
+            "name": "Empty Last Name",
+
+            "email": "",
+            "firstName": "Mike",
+            "lastName": "",
+            "phone": "1234567890",
+            "extension": "1234",
+
+            "organizationType": "Customer",
+            "organizationName": "",
+            "userRole": "Customer Administrator",
+
+            "alwaysCheckNavBar": false,
+            "hideJoinAll": false,
+            "collapseNavBar": false,
+
+            "editPreferences": false,
+            "mapCenter": "United States",
+            "language": "English",
+            "unitsOfMeasure": "US Customary",
+            "unitsOfDistance": "Miles",
+            "unitsOfVolume": "Gallons",
+            "unitsOfFuelEconomy": "Miles Per Gallon",
+            "unitsOfTemperature": "Degrees Fahrenheit",
+            "unitsOfPressure": "Pounds Per Square Inch",
+            "unitsOfMass": "Pounds",
+
+            "newPassword": "myPassword1",
+            "confirmPassword": "myPassword1",
+
+            "active": true,
+            "emailNotVerified": false
+        },
+        {
+            "name": "Empty Phone Number",
+
+            "email": "",
+            "firstName": "Mike",
+            "lastName": "Schmidt",
+            "phone": "",
+            "extension": "1234",
+
+            "organizationType": "Customer",
+            "organizationName": "",
+            "userRole": "Customer Administrator",
+
+            "alwaysCheckNavBar": false,
+            "hideJoinAll": false,
+            "collapseNavBar": false,
+
+            "editPreferences": false,
+            "mapCenter": "United States",
+            "language": "English",
+            "unitsOfMeasure": "US Customary",
+            "unitsOfDistance": "Miles",
+            "unitsOfVolume": "Gallons",
+            "unitsOfFuelEconomy": "Miles Per Gallon",
+            "unitsOfTemperature": "Degrees Fahrenheit",
+            "unitsOfPressure": "Pounds Per Square Inch",
+            "unitsOfMass": "Pounds",
+
+            "newPassword": "myPassword1",
+            "confirmPassword": "myPassword1",
+
+            "active": true,
+            "emailNotVerified": false
+        },
+        {
+            "name": "Phone Number Contains less than 10 numbers",
+
+            "email": "",
+            "firstName": "Mike",
+            "lastName": "Schmidt",
+            "phone": "123",
+            "extension": "1234",
+
+            "organizationType": "Customer",
+            "organizationName": "",
+            "userRole": "Customer Administrator",
+
+            "alwaysCheckNavBar": false,
+            "hideJoinAll": false,
+            "collapseNavBar": false,
+
+            "editPreferences": false,
+            "mapCenter": "United States",
+            "language": "English",
+            "unitsOfMeasure": "US Customary",
+            "unitsOfDistance": "Miles",
+            "unitsOfVolume": "Gallons",
+            "unitsOfFuelEconomy": "Miles Per Gallon",
+            "unitsOfTemperature": "Degrees Fahrenheit",
+            "unitsOfPressure": "Pounds Per Square Inch",
+            "unitsOfMass": "Pounds",
+
+            "newPassword": "myPassword1",
+            "confirmPassword": "myPassword1",
+
+            "active": true,
+            "emailNotVerified": false
+        },
+        {
+            "name": "Invalid Organization Type",
+
+            "email": "",
+            "firstName": "Mike",
+            "lastName": "Schmidt",
+            "phone": "1234567890",
+            "extension": "1234",
+
+            "organizationType": "asfdasdf",
+            "organizationName": "",
+            "userRole": "Customer Administrator",
+
+            "alwaysCheckNavBar": false,
+            "hideJoinAll": false,
+            "collapseNavBar": false,
+
+            "editPreferences": false,
+            "mapCenter": "United States",
+            "language": "English",
+            "unitsOfMeasure": "US Customary",
+            "unitsOfDistance": "Miles",
+            "unitsOfVolume": "Gallons",
+            "unitsOfFuelEconomy": "Miles Per Gallon",
+            "unitsOfTemperature": "Degrees Fahrenheit",
+            "unitsOfPressure": "Pounds Per Square Inch",
+            "unitsOfMass": "Pounds",
+
+            "newPassword": "myPassword1",
+            "confirmPassword": "myPassword1",
+
+            "active": true,
+            "emailNotVerified": false
+        },
+        {
+            "name": "Empty User Role",
+
+            "email": "",
+            "firstName": "Mike",
+            "lastName": "Schmidt",
+            "phone": "1234567890",
+            "extension": "1234",
+
+            "organizationType": "Customer",
+            "organizationName": "",
+            "userRole": "",
+
+            "alwaysCheckNavBar": false,
+            "hideJoinAll": false,
+            "collapseNavBar": false,
+
+            "editPreferences": false,
+            "mapCenter": "United States",
+            "language": "English",
+            "unitsOfMeasure": "US Customary",
+            "unitsOfDistance": "Miles",
+            "unitsOfVolume": "Gallons",
+            "unitsOfFuelEconomy": "Miles Per Gallon",
+            "unitsOfTemperature": "Degrees Fahrenheit",
+            "unitsOfPressure": "Pounds Per Square Inch",
+            "unitsOfMass": "Pounds",
+
+            "newPassword": "myPassword1",
+            "confirmPassword": "myPassword1",
+
+            "active": true,
+            "emailNotVerified": false
+        }
+    ]
+}

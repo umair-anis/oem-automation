@@ -1,0 +1,48 @@
+{
+    "customers": [
+        {
+            "name": "TestCustomerName",
+            "email": "testCustomer@test.com",
+            "address1": "100 Test Ln N",
+            "address2": "Suite 1",
+            "city": "Plymouth",
+            "state": "MN",
+            "zipCode": "55446",
+            "country": "United States",
+            "phone": "6515551212",
+            "fax": "1112223333",
+            "joinDealerNetwork": "False"
+
+        },
+        {
+            "name": "TestJoinAllCustomerName",
+            "email": "testJoinAllCustomer@test.com",
+            "address1": "100 Test Ln N",
+            "address2": "Suite 1",
+            "city": "Plymouth",
+            "state": "MN",
+            "zipCode": "55446",
+            "country": "United States",
+            "phone": "6515551212",
+            "fax": "1112223333",
+            "joinDealerNetwork": "True"
+
+        },
+        {
+            "name": "RandomName",
+            "email": "testCustomerEdited@test.com",
+            "address1": "322 Test Ln N",
+            "address2": "Suite 2",
+            "city": "LA",
+            "state": "MS",
+            "zipCode": "6455",
+            "country": "Canada",
+            "phone": "1234567890",
+            "fax": "3333333333",
+            "joinDealerNetwork": "False"
+        }
+
+    ]
+}
+
+

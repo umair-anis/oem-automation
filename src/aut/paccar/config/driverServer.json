@@ -1,0 +1,4 @@
+{
+    "remoteUrl": "http://3.82.92.201:4444/wd/hub",
+    "localUrl": "http://localhost:4444/wd/hub"
+}

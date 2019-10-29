@@ -1,0 +1,619 @@
+{
+  "eventId": "",
+  "faultCode": {
+    "additionalInformation": "",
+    "afterTreatmentId": "",
+    "attention": "",
+    "cascadeIn": [
+      ""
+    ],
+    "cascadeOut": [
+      ""
+    ],
+    "currentState": "",
+    "derateText": [
+      ""
+    ],
+    "diagnosticTroubleCode": "",
+    "dtc": {
+      "code": "",
+      "description": ""
+    },
+    "dtcDescription": "",
+    "emailBucket": "",
+    "engineId": "",
+    "failureModeIdentifier": 0,
+    "hidden": false,
+    "key": "",
+    "lamp": "",
+    "lampFaultList": [
+      ""
+    ],
+    "localizations": [
+      {
+        "additionalInformation": "",
+        "attention": "",
+        "currentState": "",
+        "derateText": [
+          ""
+        ],
+        "dtcDescription": "",
+        "lamp": "",
+        "lcid": 0,
+        "possibleCauses": [
+          {
+            "CausesSequenceNumber": 0,
+            "DriverCheckIndicator": false,
+            "PossibleCause": ""
+          }
+        ],
+        "system": ""
+      }
+    ],
+    "modelYear": 0,
+    "oemKey": "",
+    "possibleCauses": [
+      {
+        "CausesSequenceNumber": 0,
+        "DriverCheckIndicator": false,
+        "PossibleCause": ""
+      }
+    ],
+    "recommendedAction": "",
+    "releaseCode": "",
+    "sendEmail": false,
+    "subsystem": "",
+    "suspectParameterNumber": 0,
+    "system": "",
+    "tags": [
+      ""
+    ],
+    "timestamp": {
+      "centuryOfEra": 0,
+      "yearOfEra": 0,
+      "yearOfCentury": 0,
+      "weekyear": 0,
+      "monthOfYear": 0,
+      "weekOfWeekyear": 0,
+      "secondOfMinute": 0,
+      "millisOfSecond": 0,
+      "millisOfDay": 0,
+      "minuteOfHour": 0,
+      "hourOfDay": 0,
+      "year": 0,
+      "era": 0,
+      "dayOfYear": 0,
+      "dayOfWeek": 0,
+      "dayOfMonth": 0,
+      "chronology": {
+        "zone": {
+          "fixed": false
+        }
+      },
+      "fieldTypes": [
+        {
+          "durationType": {
+            "name": ""
+          },
+          "rangeDurationType": {
+            "name": ""
+          },
+          "name": ""
+        }
+      ],
+      "values": [
+        0
+      ],
+      "fields": [
+        {
+          "minimumValue": 0,
+          "durationField": {
+            "unitMillis": 0,
+            "precise": false,
+            "name": "",
+            "type": {
+              "name": ""
+            },
+            "supported": false
+          },
+          "rangeDurationField": {
+            "unitMillis": 0,
+            "precise": false,
+            "name": "",
+            "type": {
+              "name": ""
+            },
+            "supported": false
+          },
+          "leapDurationField": {
+            "unitMillis": 0,
+            "precise": false,
+            "name": "",
+            "type": {
+              "name": ""
+            },
+            "supported": false
+          },
+          "maximumValue": 0,
+          "lenient": false,
+          "name": "",
+          "type": {
+            "durationType": {
+              "name": ""
+            },
+            "rangeDurationType": {
+              "name": ""
+            },
+            "name": ""
+          },
+          "supported": false
+        }
+      ]
+    },
+    "version": 0
+  },
+  "faultCodeDetails": {
+    "amberWarningLampStatus": "",
+    "conversionMethod": 0,
+    "failureModeIdentifier": 0,
+    "faultCode": "",
+    "flashAmberWarningLampStatus": "",
+    "flashMalfunctionIndicatorLampStatus": "",
+    "flashProtectLampStatus": "",
+    "flashRedStopLampStatus": "",
+    "malfunctionIndicatorLampStatus": "",
+    "occurrenceCount": 0,
+    "postTriggerSamples": 0,
+    "preTriggerSamples": 0,
+    "protectLampStatus": "",
+    "redStopLampStatus": "",
+    "sourceAddress": 0,
+    "suspectParameterNumber": 0
+  },
+  "faultCodeKey": "",
+  "faultGuidance": {
+    "Lamp": "",
+    "PaccarActionInterpretation": {
+      "AdditionalFaultInformation": "",
+      "Attention": "",
+      "CurrentState": "",
+      "Derates": [
+        {
+          "DerateDescription": "",
+          "DerateValue": "",
+          "Sequence": 0
+        }
+      ],
+      "PossibleCauses": [
+        {
+          "CausesSequenceNumber": 0,
+          "DriverCheckIndicator": false,
+          "PossibleCause": ""
+        }
+      ]
+    },
+    "RecommendedAction": "",
+    "localizations": [
+      {
+        "additionalInformation": "",
+        "attention": "",
+        "currentState": "",
+        "derateText": [
+          ""
+        ],
+        "dtcDescription": "",
+        "lamp": "",
+        "lcid": 0,
+        "possibleCauses": [
+          {
+            "CausesSequenceNumber": 0,
+            "DriverCheckIndicator": false,
+            "PossibleCause": ""
+          }
+        ],
+        "system": ""
+      }
+    ],
+    "source": ""
+  },
+  "hidden": false,
+  "key": "",
+  "locationInfo": {
+    "altitude": 0,
+    "heading": "",
+    "headingDegrees": 0,
+    "lastUpdated": {
+      "centuryOfEra": 0,
+      "yearOfEra": 0,
+      "yearOfCentury": 0,
+      "weekyear": 0,
+      "monthOfYear": 0,
+      "weekOfWeekyear": 0,
+      "secondOfMinute": 0,
+      "millisOfSecond": 0,
+      "millisOfDay": 0,
+      "minuteOfHour": 0,
+      "hourOfDay": 0,
+      "year": 0,
+      "era": 0,
+      "dayOfYear": 0,
+      "dayOfWeek": 0,
+      "dayOfMonth": 0,
+      "chronology": {
+        "zone": {
+          "fixed": false
+        }
+      },
+      "fieldTypes": [
+        {
+          "durationType": {
+            "name": ""
+          },
+          "rangeDurationType": {
+            "name": ""
+          },
+          "name": ""
+        }
+      ],
+      "values": [
+        0
+      ],
+      "fields": [
+        {
+          "minimumValue": 0,
+          "durationField": {
+            "unitMillis": 0,
+            "precise": false,
+            "name": "",
+            "type": {
+              "name": ""
+            },
+            "supported": false
+          },
+          "rangeDurationField": {
+            "unitMillis": 0,
+            "precise": false,
+            "name": "",
+            "type": {
+              "name": ""
+            },
+            "supported": false
+          },
+          "leapDurationField": {
+            "unitMillis": 0,
+            "precise": false,
+            "name": "",
+            "type": {
+              "name": ""
+            },
+            "supported": false
+          },
+          "maximumValue": 0,
+          "lenient": false,
+          "name": "",
+          "type": {
+            "durationType": {
+              "name": ""
+            },
+            "rangeDurationType": {
+              "name": ""
+            },
+            "name": ""
+          },
+          "supported": false
+        }
+      ]
+    },
+    "location": {
+      "lat": 0,
+      "lon": 0
+    },
+    "odometer": 0,
+    "speedMilesPerHour": 0,
+    "tripId": 0
+  },
+  "logDate": {
+    "centuryOfEra": 0,
+    "yearOfEra": 0,
+    "yearOfCentury": 0,
+    "weekyear": 0,
+    "monthOfYear": 0,
+    "weekOfWeekyear": 0,
+    "secondOfMinute": 0,
+    "millisOfSecond": 0,
+    "millisOfDay": 0,
+    "minuteOfHour": 0,
+    "hourOfDay": 0,
+    "year": 0,
+    "era": 0,
+    "dayOfYear": 0,
+    "dayOfWeek": 0,
+    "dayOfMonth": 0,
+    "chronology": {
+      "zone": {
+        "fixed": false
+      }
+    },
+    "fieldTypes": [
+      {
+        "durationType": {
+          "name": ""
+        },
+        "rangeDurationType": {
+          "name": ""
+        },
+        "name": ""
+      }
+    ],
+    "values": [
+      0
+    ],
+    "fields": [
+      {
+        "minimumValue": 0,
+        "durationField": {
+          "unitMillis": 0,
+          "precise": false,
+          "name": "",
+          "type": {
+            "name": ""
+          },
+          "supported": false
+        },
+        "rangeDurationField": {
+          "unitMillis": 0,
+          "precise": false,
+          "name": "",
+          "type": {
+            "name": ""
+          },
+          "supported": false
+        },
+        "leapDurationField": {
+          "unitMillis": 0,
+          "precise": false,
+          "name": "",
+          "type": {
+            "name": ""
+          },
+          "supported": false
+        },
+        "maximumValue": 0,
+        "lenient": false,
+        "name": "",
+        "type": {
+          "durationType": {
+            "name": ""
+          },
+          "rangeDurationType": {
+            "name": ""
+          },
+          "name": ""
+        },
+        "supported": false
+      }
+    ]
+  },
+  "manufacturerKey": "",
+  "messageType": "",
+  "oemKey": "",
+  "snapshots": [
+    {
+      "accPedalPosition": 0,
+      "ambientAirTemp": 0,
+      "barometricPress": 0,
+      "brakeSwitch": 0,
+      "busUtilization": 0,
+      "catIntakeGasTemp": 0,
+      "catOutletGasTemp": 0,
+      "clutchSwitch": 0,
+      "cmdEngFuelPress": 0,
+      "cruiseStatus": 0,
+      "dpfRegenInhibitSw": 0,
+      "dpfThermalMngmnt": 0,
+      "drvrDemandTorque": 0,
+      "drvrPercentTorque": 0,
+      "engAirFlowRate": 0,
+      "engAvgFuelEcon": 0,
+      "engCoolantLevel": 0,
+      "engCoolantTemp": 0,
+      "engDPFIntakePress": 0,
+      "engDemandTorque": 0,
+      "engEgrValvePos": 0,
+      "engExhaustGasTemp": 0,
+      "engFuelDelPress": 0,
+      "engFuelTemp1": 0,
+      "engInjRail1Press": 0,
+      "engIntakeMan1Temp": 0,
+      "engManAbsPressure": 0,
+      "engOilPressure": 0,
+      "engOilTemp1": 0,
+      "engPercentTorque": 0,
+      "engTurbo1Boost": 0,
+      "engTurbo1Pos": 0,
+      "engTurbo1Speed": 0,
+      "engineSpeed": 0,
+      "exhaustTankLevel": 0,
+      "exhaustTankTemp": 0,
+      "fanSpeed": 0,
+      "keyswitchBatPot": 0,
+      "partTrapDiffPress": 0,
+      "partTrapOutTemp": 0,
+      "ptoGovState": 0,
+      "retarderPrcntTrq": 0,
+      "sampleTime": {
+        "centuryOfEra": 0,
+        "yearOfEra": 0,
+        "yearOfCentury": 0,
+        "weekyear": 0,
+        "monthOfYear": 0,
+        "weekOfWeekyear": 0,
+        "secondOfMinute": 0,
+        "millisOfSecond": 0,
+        "millisOfDay": 0,
+        "minuteOfHour": 0,
+        "hourOfDay": 0,
+        "year": 0,
+        "era": 0,
+        "dayOfYear": 0,
+        "dayOfWeek": 0,
+        "dayOfMonth": 0,
+        "chronology": {
+          "zone": {
+            "fixed": false
+          }
+        },
+        "fieldTypes": [
+          {
+            "durationType": {
+              "name": ""
+            },
+            "rangeDurationType": {
+              "name": ""
+            },
+            "name": ""
+          }
+        ],
+        "values": [
+          0
+        ],
+        "fields": [
+          {
+            "minimumValue": 0,
+            "durationField": {
+              "unitMillis": 0,
+              "precise": false,
+              "name": "",
+              "type": {
+                "name": ""
+              },
+              "supported": false
+            },
+            "rangeDurationField": {
+              "unitMillis": 0,
+              "precise": false,
+              "name": "",
+              "type": {
+                "name": ""
+              },
+              "supported": false
+            },
+            "leapDurationField": {
+              "unitMillis": 0,
+              "precise": false,
+              "name": "",
+              "type": {
+                "name": ""
+              },
+              "supported": false
+            },
+            "maximumValue": 0,
+            "lenient": false,
+            "name": "",
+            "type": {
+              "durationType": {
+                "name": ""
+              },
+              "rangeDurationType": {
+                "name": ""
+              },
+              "name": ""
+            },
+            "supported": false
+          }
+        ]
+      },
+      "scrIntakeGasTemp": 0,
+      "scrOutletGasTemp": 0,
+      "vehicleSpeed": 0
+    }
+  ],
+  "tags": [
+    ""
+  ],
+  "timestamp": {
+    "centuryOfEra": 0,
+    "yearOfEra": 0,
+    "yearOfCentury": 0,
+    "weekyear": 0,
+    "monthOfYear": 0,
+    "weekOfWeekyear": 0,
+    "secondOfMinute": 0,
+    "millisOfSecond": 0,
+    "millisOfDay": 0,
+    "minuteOfHour": 0,
+    "hourOfDay": 0,
+    "year": 0,
+    "era": 0,
+    "dayOfYear": 0,
+    "dayOfWeek": 0,
+    "dayOfMonth": 0,
+    "chronology": {
+      "zone": {
+        "fixed": false
+      }
+    },
+    "fieldTypes": [
+      {
+        "durationType": {
+          "name": ""
+        },
+        "rangeDurationType": {
+          "name": ""
+        },
+        "name": ""
+      }
+    ],
+    "values": [
+      0
+    ],
+    "fields": [
+      {
+        "minimumValue": 0,
+        "durationField": {
+          "unitMillis": 0,
+          "precise": false,
+          "name": "",
+          "type": {
+            "name": ""
+          },
+          "supported": false
+        },
+        "rangeDurationField": {
+          "unitMillis": 0,
+          "precise": false,
+          "name": "",
+          "type": {
+            "name": ""
+          },
+          "supported": false
+        },
+        "leapDurationField": {
+          "unitMillis": 0,
+          "precise": false,
+          "name": "",
+          "type": {
+            "name": ""
+          },
+          "supported": false
+        },
+        "maximumValue": 0,
+        "lenient": false,
+        "name": "",
+        "type": {
+          "durationType": {
+            "name": ""
+          },
+          "rangeDurationType": {
+            "name": ""
+          },
+          "name": ""
+        },
+        "supported": false
+      }
+    ]
+  },
+  "tripState": "",
+  "version": 0,
+  "vin": ""
+}

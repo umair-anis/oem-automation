@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "name": "Deactivate Single Vin",
+
+            "removalCategory": "Customer Requested",
+            "vins": ["1FUJGLDR49LAL0801"]
+        },
+        {
+            "name": "Deactivate Multiple Vins",
+
+            "removalCategory": "Customer Requested",
+            "vins": ["1FUJGLDR49LAL0801", "1FUJGLDR49LAL0801"]
+        }
+    ]
+}
