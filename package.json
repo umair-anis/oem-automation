@@ -27,7 +27,7 @@
     "jest-html-reporter": "^2.5.0",
     "jest-junit": "^6.4.0",
     "junit-xml": "^1.2.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "mailosaur": "^6.0.0",
     "resemblejs": "^3.2.0",
     "selenium-webdriver": "^4.0.0-alpha.4",
