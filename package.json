@@ -14,7 +14,7 @@
   "license": "ISC",
   "dependencies": {
     "agentkeepalive": "^4.1.0",
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "amqplib": "^0.5.5",
     "chromedriver": "^77.0.0",
     "cors": "^2.8.5",
